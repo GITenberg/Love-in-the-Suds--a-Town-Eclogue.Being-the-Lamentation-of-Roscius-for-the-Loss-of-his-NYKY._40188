@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40463'
     url: http://www.gutenberg.org/2009/agents/40463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40188#Love-in-the-Suds--a-Town-Eclogue.Being-the-Lamentation-of-Roscius-for-the-Loss-of-his-NYKY.
 gutenberg_issued: '2012-07-10'
 gutenberg_type: Text
 identifiers:
