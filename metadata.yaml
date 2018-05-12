@@ -1,0 +1,28 @@
+_repo: Love-in-the-Suds--a-Town-Eclogue.Being-the-Lamentation-of-Roscius-for-the-Loss-of-his-NYKY._40188
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kenrick, W. (William)
+    alias: Kenrick, William
+    deathdate: 1779
+    gutenberg_agent_id: '40463'
+    url: http://www.gutenberg.org/2009/agents/40463
+description: ''
+gutenberg_issued: '2012-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Garrick, David, 1717-1779 -- Poetry'
+- !lcsh 'Verse satire, English'
+- !lcc 'PR'
+title: "Love in the Suds: a Town Eclogue.\r\nBeing the Lamentation of Roscius for\
+  \ the Loss of His Nyky."
+url: http://www.gutenberg.org/ebooks/40188
